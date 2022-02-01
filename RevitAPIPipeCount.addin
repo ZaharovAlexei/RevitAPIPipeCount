@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type ="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPIPipeCount.dll"</Assembly>
+		<AddInId>A61F72F9-1AD7-4021-BBDD-E4DF904E497A</AddInId>
+		<FullClassName>RevitAPIPipeCount.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Подсчет труб</Text>
+	</AddIn>
+</RevitAddIns>
